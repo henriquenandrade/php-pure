@@ -1,4 +1,4 @@
-# PHP puro
+# PHP 8 puro
 
 Repositório para revisar conceitos do PHP nas novas versões.
 
